@@ -1,0 +1,5 @@
+
+{
+  "name": "SecureID - Identity Management System",
+  "description": "A secure user profile and access control system featuring JWT authentication, AES-256 encryption for Aadhaar/ID numbers at rest, and a responsive management dashboard."
+}
